@@ -2,7 +2,9 @@
 ## Assignment 1
 
 Implement a model, based on the perceptron algorithm, that will be able to classify hand written digits. For training, use the mnist dataset.
+
 https://github.com/mnielsen/neural-networks-and-deep-learning/raw/master/data/mnist.pkl.gz
+
 The classification algorithm must use 10 perceptrons. Each of the 10 perceptrons will be trained to
 distinguish elements that represent a specific digit from the rest of the elements in the dataset. For
 example, the 0 perceptron will be trained to classify 0 from the digits 1,2,3,4,5,6,7,8,9
